@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-""" PyQRNative - generate QR codes in Python
+""" pyqrnative - generate QR codes in Python
 
 svn2git converted http://pyqrnative.googlecode.com/svn/trunk/
 
@@ -101,7 +101,7 @@ def setup_package():
         author_email=AUTHOR_EMAIL,
         keywords=KEYWORDS,
         url=URL,
-        packages=['PyQRNative'],
+        packages=['pyqrnative'],
      )
 
 
